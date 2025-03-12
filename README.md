@@ -7,17 +7,8 @@
 ## Let's Get Connected!
 
 <div align="center">
-  <a href="https://github.com/whizali/whizali" target="_blank">
+  <a href="https://github.com/whizali" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23404d59.svg?style=for-the-badge&logo=view&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/isalihassan/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/whizali/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.youtube.com/@whizali" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
   </a>
   <a href="mailto:ali.hassan0804@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
